@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "id": "0",
+      "name": "Personal Life",
+      "logoUrl": "https://raw.githubusercontent.com/M0Coding/Pokedex/main/icons/pokeball.png",
+      "logoPosition": "right",
+      "startColor": "0xFF2EB688",
+      "endColor": "0xFF046D4A"
+    },
+    {
+      "id": "2",
+      "name": "Financial Life",
+      "logoUrl": "https://raw.githubusercontent.com/M0Coding/Pokedex/main/icons/electric.png",
+      "logoPosition": "left",
+      "startColor": "0xFFF1A22C",
+      "endColor": "0xFFCB5C0D"
+    },
+    {
+      "id": "3",
+      "name": "Governmental Life",
+      "logoUrl": "https://raw.githubusercontent.com/M0Coding/Pokedex/main/icons/dna.png",
+      "logoPosition": "right",
+      "startColor": "0xFF54B1DF",
+      "endColor": "0xFF00FFFF"
+    },
+    {
+      "id": "4",
+      "name": "McDonald’s Training",
+      "logoUrl": "https://raw.githubusercontent.com/M0Coding/Pokedex/main/icons/location.png",
+      "logoPosition": "left",
+      "startColor": "0xFFF33736",
+      "endColor": "0xFF9C2221"
+    },
+    {
+      "id": "5",
+      "name": "Corporate Training",
+      "logoUrl": "https://raw.githubusercontent.com/M0Coding/Pokedex/main/icons/dna.png",
+      "logoPosition": "right",
+      "startColor": "0xFF0330FC",
+      "endColor": "0xFF0023C4"
+    }
+  ]
+}
