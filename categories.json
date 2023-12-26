@@ -4,7 +4,7 @@
       "id": "0",
       "name": "Personal Life",
       "imageUrl": "https://raw.githubusercontent.com/M0Coding/Pokedex/main/icons/pokeball.png",
-      "logoPosition": "right",
+      "imagePosition": "right",
       "startColor": "0xFF2EB688",
       "endColor": "0xFF046D4A"
     },
