@@ -1,0 +1,12 @@
+{
+  "categoryID": "1",
+  "categories": [
+    {
+      "id": "1",
+      "name": "Vehicle Financing and Insurance",
+      "length": "25 minutes",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      "imageUrl": "https://raw.githubusercontent.com/M0Coding/Pokedex/main/icons/pokeball.png"
+    }
+  ]
+}
