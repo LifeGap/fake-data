@@ -25,20 +25,20 @@
       "endColor": "0xFF00FFFF"
     },
     {
-      "id": "4",
-      "name": "McDonald’s Training",
-      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/category4.png",
-      "imagePosition": "left",
-      "startColor": "0xFFF33736",
-      "endColor": "0xFF9C2221"
-    },
-    {
       "id": "5",
       "name": "Corporate Training",
       "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/category5.png",
       "imagePosition": "right",
       "startColor": "0xFF0330FC",
       "endColor": "0xFF0023C4"
+    },
+    {
+      "id": "4",
+      "name": "McDonald’s Training",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/category4.png",
+      "imagePosition": "left",
+      "startColor": "0xFFF33736",
+      "endColor": "0xFF9C2221"
     }
   ]
 }
