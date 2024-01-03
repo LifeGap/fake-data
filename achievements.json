@@ -8,29 +8,29 @@
   "rewards": [
     {
       "id": 1,
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/pokeball.png",
       "label":"McDonalds Meal"
     },
     {
       "id": 2,
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/location.png",
       "label":"200 Robux"
     },
     {
       "id": 3,
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/dna.png",
       "label":"£10 Gift Card"
     }
   ],
   "certificates": [
     {
       "id": 1,
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/pokeball.png",
       "label":"Opening a Bank Account"
     },
     {
       "id": 2,
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/location.png",
       "label":"Vehicle Finance and Insurance"
     }
   ]
