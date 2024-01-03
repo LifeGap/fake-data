@@ -1,0 +1,37 @@
+{
+  "points": {
+    "currentLevel": 3,
+    "nextLevel": 4,
+    "currentPoints": 5500,
+    "nextLevelPoints": 6000
+  },
+  "rewards": [
+    {
+      "id": 1,
+      "imageUrl": "",
+      "label":"McDonalds Meal"
+    },
+    {
+      "id": 2,
+      "imageUrl": "",
+      "label":"200 Robux"
+    },
+    {
+      "id": 3,
+      "imageUrl": "",
+      "label":"£10 Gift Card"
+    }
+  ],
+  "certificates": [
+    {
+      "id": 1,
+      "imageUrl": "",
+      "label":"Opening a Bank Account"
+    },
+    {
+      "id": 2,
+      "imageUrl": "",
+      "label":"Vehicle Finance and Insurance"
+    }
+  ]
+}
