@@ -7,29 +7,44 @@
   },
   "rewards": [
     {
-      "id": 1,
+      "id": "1",
       "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/pokeball.png",
       "label":"McDonalds Meal"
     },
     {
-      "id": 2,
+      "id": "2",
       "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/location.png",
       "label":"200 Robux"
     },
     {
-      "id": 3,
+      "id": "3",
+      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/dna.png",
+      "label":"£10 Gift Card"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/pokeball.png",
+      "label":"McDonalds Meal"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/location.png",
+      "label":"200 Robux"
+    },
+    {
+      "id": "6",
       "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/dna.png",
       "label":"£10 Gift Card"
     }
   ],
   "certificates": [
     {
-      "id": 1,
+      "id": "1",
       "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/pokeball.png",
       "label":"Opening a Bank Account"
     },
     {
-      "id": 2,
+      "id": "2",
       "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/location.png",
       "label":"Vehicle Finance and Insurance"
     }
