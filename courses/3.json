@@ -1,0 +1,83 @@
+{
+  "categoryID": "3",
+  "courses": [
+    {
+      "id": "1",
+      "name": "National Insurance Number",
+      "duration": "25 minutes",
+      "description": "Understand the importance of obtaining a National Insurance Number for legal employment and social security benefits in the UK.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat3_C1_NationalInsuranceNumber.png"
+    },
+    {
+      "id": "2",
+      "name": "Registering with the NHS and Dentist",
+      "description": "Learn the process of registering with the National Health Service (NHS) and finding a local dentist for your healthcare needs.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat3_C2_RegisteringwiththeNHSandDentist.png"
+    },
+    {
+      "id": "3",
+      "name": "Health and Dental Insurance",
+      "duration": "25 minutes",
+      "description": "Explore options and benefits of health and dental insurance plans to ensure comprehensive coverage for medical and dental care.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat3_C4_GlobalHealthCardFreeInternationalMedicalCare.png"
+    },
+    {
+      "id": "4",
+      "name": "Global Health Card: Free International Medical Care",
+      "description": "Discover the Global Health Card for access to free international medical care and essential information for travel-related health concerns.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C4_ManageYourBills.png"
+    },
+    {
+      "id": "5",
+      "name": "The Employment Tribunal",
+      "description": "Gain insights into the Employment Tribunal process, addressing workplace disputes and ensuring fair treatment for employees.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat3_C5_TheEmploymentTribunal.png"
+    },
+    {
+      "id": "6",
+      "name": "Drivers Licence, MOT and Vehicle Taxs",
+      "duration": "25 minutes",
+      "description": "Navigate the requirements for obtaining a driver's licence, ensuring vehicle roadworthiness with MOT, and managing vehicle tax obligations.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat3_C6_DriversLicenceMOTandVehicleTax.png"
+    },
+    {
+      "id": "7",
+      "name": "Registering with HMRC and Submitting a Tax Return",
+      "description": "Learn the steps to register with His Majesty's Revenue and Customs (HMRC) and fulfill tax obligations, including submitting an annual tax return.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat3_C7_RegisteringwithHMRCandSubmittingaTaxReturn.png"
+    },
+    {
+      "id": "8",
+      "name": "Unemployment, Benefits and Grants",
+      "description": "Understand the support available during unemployment, explore benefit options, and discover potential grants to aid financial stability.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat3_C8_UnemploymentBenefitsandGrants.png"
+    },
+    {
+      "id": "9",
+      "name": "Pregnancy and Maternity Benefits",
+      "duration": "25 minutes",
+      "description": "Access information on pregnancy and maternity benefits, ensuring proper support and understanding available resources during this life stage.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat3_C9_PregnancyandMaternityBenefits.png"
+    },
+    {
+      "id": "10",
+      "name": "Electoral Roll",
+      "description": "Your mortgage is likely to be the biggest debt you’ll ever take on, and so it also needs to be the one you consider most carefully. LifeGap offers tips and information to assist you when purchasing a home.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat3_C10_ElectoralRoll.png"
+    },
+    {
+      "id": "11",
+      "name": "Criminal Record Checks",
+      "description": "Starting early is very important when it comes to saving for your pension. This will allow you more years to save for your retirement.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat3_C11_CriminalRecordChecks.png"
+    },
+    {
+      "id": "12",
+      "name": "Pension",
+      "description": "Plan for the future by understanding the pension system, exploring options, and securing financial well-being in retirement.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat3_C12_Pension.png"
+
+
+    }
+  ]
+}

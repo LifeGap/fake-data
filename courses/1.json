@@ -1,6 +1,77 @@
 {
   "categoryID": "1",
   "courses": [
+    {
+      "id": "1",
+      "name": "Searching Online",
+      "duration": "25 minutes",
+      "description": "The internet makes it really easy to search for just about anything, including information on companies, services and products. Learn how to effectively search online.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C1_SearchingOnline.png"
+    },
+    {
+      "id": "2",
+      "name": "Email Accounts and Cloud Storage",
+      "description": "An email account is a virtual address where people can message each other and it’s getting harder and harder for people to do without them. Learn how to set up an email account as well as how to store important documents online for easy access.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C2_EmailAccountsandCloudStorage.png"
+    },
+    {
+      "id": "3",
+      "name": "Getting a Job",
+      "duration": "25 minutes",
+      "description": "Getting a job requires that you complete a few steps successfully, including creating a CV and going for an interview.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C3_GettingaJob.png"
+    },
+    {
+      "id": "4",
+      "name": "How to Get a Promotion",
+      "description": "Asking for a raise can be a daunting task, but if you’re prepared for it, it will not only be easier to ask for an increase in your salary, but you’ll also have a better chance of getting it.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C4_HowtoGetaPromotion.png"
+    },
+    {
+      "id": "5",
+      "name": "Renting a House",
+      "description": "Signing your first rental agreement? Before you start packing those moving boxes and thinking about what colour curtains to buy, take some time to think about whether you’re protecting yourself when signing your lease agreement.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C5_RentingaHouse.png"
+    },
+    {
+      "id": "6",
+      "name": "Addictions and Helplines",
+      "duration": "25 minutes",
+      "description": "Addiction can be a challenging problem to try to solve on your own. Whether you’re the one who wants to change your life or you’re looking to support someone else, there are a variety of supports available in the UK to help you along the way.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C6_AddictionsandHelplines.png"
+    },
+    {
+      "id": "7",
+      "name": "Getting Organised",
+      "description": "Being organised is about more than simply knowing what you want to do and when you want to do it – it’s a skill that allows you to prioritise just about everything in your life, allowing you to focus on what’s important.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C7_GettingOrganised.png"
+    },
+    {
+      "id": "8",
+      "name": "Nutrition: Eating Well and Living Better",
+      "description": "Food is the fuel that powers the body and so it’s important to know what fuel you need to get the most out of your daily life. You wouldn’t put petrol into a diesel car, so why put just anything into your body?",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C8_Nutrition.png"
+    },
+    {
+      "id": "9",
+      "name": "Complaining Effectively, and Citizens Advice",
+      "duration": "25 minutes",
+      "description": "Imagine someone complaining. What do you think of? Immediately, you might be picturing someone angry, irrational and loud. LifeGap teaches you what steps to follow to complain effectively.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C9_ComplainingEffectively.png"
+    },
+    {
+      "id": "10",
+      "name": "Travel",
+      "description": "Whether you are traveling for work or pleasure, it can be tough to navigate the world of ticket purchasing, visas and airport layovers. Luckily, with some preparation, you can turn the stress of travelling into a more relaxed experience.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C10_Travel.png"
+    },
+    {
+      "id": "11",
+      "name": "Helpful Apps",
+      "description": "Discover essential apps for streamlined living, including bin collection reminders, parking assistance, public transport updates, and the NHS app for health management, alongside the MSE app for financial guidance.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C11_Helpfulapps.png"
     
+
+    }
   ]
 }

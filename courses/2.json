@@ -3,43 +3,81 @@
   "courses": [
     {
       "id": "1",
-      "name": "Vehicle Financing and Insurance",
+      "name": "Bank Accounts",
       "duration": "25 minutes",
-      "background": "0xFFFE9F10",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/category1_course1.png"
+      "description": "Opening an account is the easy part – deciding what account is right for you can be somewhat trickier. Opening a bank account is the start of your journey to managing your finances effectively.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C1_bankaccounts.png"
     },
     {
       "id": "2",
-      "name": "Credit and Debit Cards",
-      "background": "0xFFFFF740",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/category1_course2.png"
+      "name": "Credit Scores",
+      "description": "A credit score is a tool used by lenders to help determine whether you qualify for a particular credit card, mortgage or service. Learn how to keep your credit score high with a few easy steps.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C2_CreditScores.png"
     },
     {
       "id": "3",
       "name": "Dealing with Debt",
       "duration": "25 minutes",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/category1_course3.png"
+      "description": "Navigate strategies for managing and overcoming debt, covering budgeting, negotiation, and seeking professional advice to regain financial stability and plan for a debt-free future.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C3_Dealingwithdebt.png"
     },
     {
       "id": "4",
-      "name": "Payday Loans",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/category1_course4.png"
+      "name": "Manage Your Bills",
+      "description": "This section includes tips on managing your credit so that you can stretch your salary, as well as tips on how you can start saving more money each month.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C4_ManageYourBills.png"
     },
     {
       "id": "5",
-      "name": "Applying to University and College",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/category1_course5.png"
+      "name": "Goal Setting",
+      "description": "Goal setting is important for one specific reason: How can you achieve something if you don’t know what it is you want to achieve?",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C5_GoalSetting.png"
     },
     {
       "id": "6",
-      "name": "Bank Accounts",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/category1_course6.png"
+      "name": "Payday Loans",
+      "duration": "25 minutes",
+      "description": "There are many reasons people choose to use micro-loans. Usually, these loans are easier to get than loans from traditional banks. Learn the pro’s and con’s of Payday loans.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C6_paydayloans.png"
+    },
+    {
+      "id": "7",
+      "name": "Applying to University and Colleges",
+      "description": "Applying to Universities is as simple as following instruction and getting all the information you need. Included in this module is contact details for the different universities in the United Kingdom.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C7_applyingtouni.png"
+    },
+    {
+      "id": "8",
+      "name": "Applying for Student Finance and Bursaries",
+      "description": "Learn what institutions offer student finance and bursaries and how to apply for them.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C8_ApplyingforStudentFinance.png"
+    },
+    {
+      "id": "9",
+      "name": "Vehicle Financing and Insurance",
+      "duration": "25 minutes",
+      "description": "There are many decisions you need to make when you’re looking at getting your hands on a car, including choosing between new or used, and buying or leasing. Learn when the best time to buy a vehicle is as well as what to look out for. Also understand insurance and how to get the best price.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C9_vehiclefinancing.png"
+    },
+    {
+      "id": "10",
+      "name": "Buying a House",
+      "description": "Your mortgage is likely to be the biggest debt you’ll ever take on, and so it also needs to be the one you consider most carefully. LifeGap offers tips and information to assist you when purchasing a home.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C10_BuyingaHouse.png"
+    },
+    {
+      "id": "11",
+      "name": "Savings and Retirement",
+      "description": "Starting early is very important when it comes to saving for your pension. This will allow you more years to save for your retirement.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C11_SavingsandRetirement.png"
+    },
+    {
+      "id": "12",
+      "name": "Comparison Websites",
+      "description": "Explore the utility of comparison websites to make informed decisions on insurance, utilities, and services, ensuring cost-effective choices tailored to individual needs and preferences.",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat2_C12_ComparisonWebsites.png"
+
+
     }
   ]
 }
