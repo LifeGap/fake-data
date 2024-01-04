@@ -5,12 +5,14 @@
       "id": "1",
       "name": "Vehicle Financing and Insurance",
       "duration": "25 minutes",
+      "background": "0xFFFE9F10",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/category1_course1.png"
     },
     {
       "id": "2",
       "name": "Credit and Debit Cards",
+      "background": "0xFFFFF740",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/category1_course2.png"
     },
