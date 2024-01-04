@@ -8,32 +8,34 @@
   "rewards": [
     {
       "id": "1",
-      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/pokeball.png",
-      "label":"McDonalds Meal"
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/Reward_BigMacMeal.png",
+      "label":"McDonald's Meal"
     },
     {
       "id": "2",
-      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/location.png",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/Reward_200Robux.png",
       "label":"200 Robux"
     },
     {
       "id": "3",
-      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/dna.png",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/Reward_AmazonGiftCard.png",
       "label":"£10 Gift Card"
     },
+
+
     {
       "id": "4",
-      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/pokeball.png",
-      "label":"McDonalds Meal"
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/Reward_BigMacMeal.png",
+      "label":"McDonald's Meal"
     },
     {
       "id": "5",
-      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/location.png",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/Reward_200Robux.png",
       "label":"200 Robux"
     },
     {
       "id": "6",
-      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/dna.png",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/Reward_AmazonGiftCard.png",
       "label":"£10 Gift Card"
     }
   ],
