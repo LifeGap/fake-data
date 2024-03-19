@@ -42,12 +42,12 @@
   "certificates": [
     {
       "id": "1",
-      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/pokeball.png",
+      "imageUrl": "https://raw.githubusercontent.com/MohamedRejeb/Pokedex/main/icons/Bank_Account.png",
       "label":"Opening a Bank Account"
     },
     {
       "id": "2",
-      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/Reward_200Robux.png",
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/Fin_and_Insure.png",
       "label":"Vehicle Finance and Insurance"
     }
   ]
