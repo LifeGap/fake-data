@@ -1,0 +1,28 @@
+{
+    "deals": [
+        {
+            "id": "1",
+            "title": "10% off any Kia",
+            "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/category1.png",
+            "tag": "10% off",
+            "rating": 5,
+            "location": "United Kingdom"
+        },
+        {
+            "id": "2",
+            "title": "5% Cashback on Amazon Giftcards",
+            "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/category1.png",
+            "tag": "5% Cashback",
+            "rating": 5,
+            "location": "United Kingdom"
+        },
+        {
+            "id": "3",
+            "title": "Free sundae with Fish-o-fillet meal purchase",
+            "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/category1.png",
+            "tag": "Free Sundae",
+            "rating": 5,
+            "location": "United Kingdom"
+        }
+    ]
+}
