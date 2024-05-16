@@ -5,32 +5,32 @@
       "name": "Personal Life",
       "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/category1.png",
       "imagePosition": "right",
-      "startColor": "0xFF2EB688",
-      "endColor": "0xFF046D4A"
+      "startColor": "0xFF110F38",
+      "endColor": "0xFF110F38"
     },
     {
       "id": "2",
       "name": "Financial Life",
       "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/category2.png",
       "imagePosition": "left",
-      "startColor": "0xFFF1A22C",
-      "endColor": "0xFFCB5C0D"
+      "startColor": "0xFF110F38",
+      "endColor": "0xFF110F38"
     },
     {
       "id": "3",
       "name": "Governmental Life",
       "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/category3.png",
       "imagePosition": "right",
-      "startColor": "0xFF54B1DF",
-      "endColor": "0xFF00FFFF"
+      "startColor": "0xFF110F38",
+      "endColor": "0xFF110F38"
     },
     {
       "id": "5",
       "name": "Skills Development",
       "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/category5.png",
       "imagePosition": "right",
-      "startColor": "0xFF0330FC",
-      "endColor": "0xFF0023C4"
+      "startColor": "0xFF110F38",
+      "endColor": "0xFF110F38"
     },
     {
       "id": "4",
