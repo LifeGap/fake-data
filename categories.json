@@ -29,8 +29,8 @@
       "name": "McDonald’s Training",
       "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/images/category4.png",
       "imagePosition": "left",
-      "startColor": "0xFFF33736",
-      "endColor": "0xFF9C2221"
+      "startColor": "0xFFE50001",
+      "endColor": "0xFFE50001"
     },
     {
       "id": "5",
