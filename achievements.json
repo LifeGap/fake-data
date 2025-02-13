@@ -1,8 +1,8 @@
 {
   "level": {
-    "currentLevel": 3,
-    "nextLevel": 4,
-    "currentPoints": 5500,
+    "currentLevel": 1,
+    "nextLevel": 2,
+    "currentPoints": 0,
     "nextLevelPoints": 6000
   },
   "rewards": [
