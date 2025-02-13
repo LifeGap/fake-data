@@ -6,7 +6,37 @@
       "name": "Searching Online",
       "duration": "25 minutes",
       "description": "The internet makes it really easy to search for just about anything, including information on companies, services and products. Learn how to effectively search online.",
-      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C1_SearchingOnline.png"
+      "imageUrl": "https://raw.githubusercontent.com/LifeGap/fake-data/main/courses/images/Cat1_C1_SearchingOnline.png", 
+      "lessons": [
+        {
+          "id": "1", 
+          "title": "What options are available?", 
+          "durationInMinutes": "2", 
+          "type": "video", 
+          "url": "https://www.google.com/search?q=1"
+        }, 
+        {
+          "id": "2", 
+          "title": "Documents you will need to provide provide provide provide provide", 
+          "durationInMinutes": "3", 
+          "type": "article", 
+          "url": "https://www.google.com/search?q=2"
+        }, 
+        {
+          "id": "3", 
+          "title": "Hire Purchase", 
+          "durationInMinutes": "4", 
+          "type": "video", 
+          "url": "https://www.google.com/search?q=3"
+        }, 
+        {
+          "id": "4", 
+          "title": "Personal Contract Purchase", 
+          "durationInMinutes": "5", 
+          "type": "article", 
+          "url": "https://www.google.com/search?q=4"
+        }
+      ]
     },
     {
       "id": "2",
