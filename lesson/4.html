@@ -2,21 +2,23 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
-    <meta name="color-scheme" content="light">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Arroz de Pato Recipe</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
             line-height: 1.6;
+            transition: background-color 0.3s, color 0.3s;
+            background-color: #f9f9f9; /* Default light mode */
+            color: #2c3e50;
         }
         h1 {
-            color: #2c3e50;
             text-align: center;
+            color: #2c3e50; /* Default light mode */
         }
         h2 {
-            color: #34495e;
+            color: #34495e; /* Default light mode */
         }
         ul, ol {
             margin-left: 20px;
@@ -24,6 +26,34 @@
         .container {
             max-width: 800px;
             margin: 0 auto;
+        }
+
+        /* Light mode (system preference or default) */
+        @media (prefers-color-scheme: light) {
+            body {
+                background-color: #f9f9f9;
+                color: #2c3e50;
+            }
+            h1 {
+                color: #2c3e50;
+            }
+            h2 {
+                color: #34495e;
+            }
+        }
+
+        /* Dark mode (system preference) */
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #1a1a1a;
+                color: #ecf0f1;
+            }
+            h1 {
+                color: #ecf0f1;
+            }
+            h2 {
+                color: #bdc3c7;
+            }
         }
     </style>
 </head>
@@ -54,4 +84,18 @@
             <li><strong>Cook the Duck:</strong> In a large pot, add the duck pieces, carrot, half the chopped onion, bay leaf, and a pinch of salt. Cover with water (about 1.5-2 liters) and bring to a boil. Reduce heat and simmer for 45-60 minutes until the duck is tender. Skim any foam from the surface.</li>
             <li><strong>Prepare the Broth:</strong> Remove the duck from the pot, reserving the broth. Strain the broth and set aside (you’ll need about 600-700ml for the rice). Shred the duck meat, discarding skin and bones.</li>
             <li><strong>Sauté the Base:</strong> In a large skillet or oven-safe pan, heat the olive oil over medium heat. Add the remaining onion, garlic, and half the chouriço slices. Cook until the onion is soft and translucent, about 5-7 minutes. Stir in the paprika and season with salt and pepper.</li>
-            <li><strong>Cook the Rice:</strong> Add the rice to the skillet, stirring to coat it in the oil and spices. Pour in 600-700ml of the reserved duck broth (about twice the volume of the rice). Bring to a boil, then
+            <li><strong>Cook the Rice:</strong> Add the rice to the skillet, stirring to coat it in the oil and spices. Pour in 600-700ml of the reserved duck broth (about twice the volume of the rice). Bring to a boil, then reduce heat to low, cover, and simmer for 10-12 minutes until the rice is nearly cooked but still slightly firm.</li>
+            <li><strong>Assemble the Dish:</strong> Preheat your oven to 200°C (390°F). In an ovenproof dish, layer half the rice, then the shredded duck meat, and top with the remaining rice. Arrange the remaining chouriço slices (and bacon or presunto, if using) on top for a crispy finish.</li>
+            <li><strong>Bake:</strong> Place the dish in the oven and bake for 15-20 minutes, or until the top is golden and slightly crispy.</li>
+            <li><strong>Serve:</strong> Garnish with chopped parsley and serve hot, ideally with a green salad or steamed vegetables on the side.</li>
+        </ol>
+
+        <h2>Notes</h2>
+        <ul>
+            <li>Carolino rice is traditional for its ability to absorb flavors, but Arborio or another short-grain rice can work as a substitute.</li>
+            <li>Adjust the broth quantity based on your rice—use about 2:1 liquid-to-rice ratio.</li>
+            <li>Some recipes add a splash of white wine to the sauté for extra depth—optional but delicious!</li>
+        </ul>
+    </div>
+</body>
+</html>
